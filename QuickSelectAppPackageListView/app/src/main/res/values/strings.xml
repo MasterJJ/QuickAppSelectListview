@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuickSelectAppPackageListView</string>
+    <string name="client_app_title">AppSelect</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="appname_searchhint">search here</string>
+    <string name="disallow_radio_on">ON</string>
+    <string name="disallow_radio_off">OFF</string>
+    <string name="disallow_radio">Mode</string>
+    <string name="title_activity_app_package_list_view">App Select List View</string>
+</resources>
